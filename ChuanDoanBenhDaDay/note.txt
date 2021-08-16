@@ -1,0 +1,53 @@
+Tập Luật: 
+r1:o2^o1^b3->d17
+r10:t3^k2^d17^k3^n4->kl6
+r11:b3^n1->kl6
+r12:n6^d20->kl7
+r13:d11^n1^b3^a2^d16->kl8
+r14:d11^d16^c5^n1->kl8
+r15:o2^o1^o3^b3^k2->kl7
+r16:d3^b3^n1^s2^d2->kl7
+r17:d7^d4->kl7
+r18:d7^d6^d4->kl7
+r19:d13->kl7
+r2:b2^a1^a2->t1
+r20:d17^k3^a1^d1->kl7
+r21:d12->kl7
+r22:d12^d3^b3^m2^r1->kl7
+r23:k2^d8^d9->kl7
+r24:c3^h1^t4^n3->kl9
+r25:v1->kl10
+r26:d18^n3^c3->kl10
+r27:d8^d3^d2->kl10
+r28:d20->kl10
+r29:t2^c4^n1->kl10
+r3:d3^c1^m3->KL2
+r30:d5^d3^d17^k3->kl11
+r31:u1^s2^t1->kl1
+r32:m3^a1^a2->kl1
+r33:n1^d18->kl1
+r34:c6^n3^d19^d18->kl1
+r35:d20^d2->kl1
+r36:d20^n3->kl1
+r37:v1^d18->kl1
+r38:v1^u1^b3->kl1
+r39:d9->kl1
+r4:d5^a1^d17^k3^c4->kl3
+r40:d3^s2^n3^d2^o2^k3->kl1
+r41:b2^b3^c3^d1^d11->kl11
+r5:k1^a1^d14^b1^b3->kl3
+r6:n3^n2^d2^c3^h1^t4^m1^x1->kl4
+r7:o2^o1^d11^d15^d10->kl3
+r8:d8^d7^d6^c1->kl3
+r9:d11^n5^b3^n1^o2^o1^d16^c4^s1^c2->kl5
+
+Tập giả thiết: GT={d1}
+Bước 1: 
+Tập trung gian: 
+TG={d1}
+SAT={}
+------------------------------------------------------------------------------
+-----Các sự kiện đã chọn-----
+Da dẻ xanh xao
+-----Kết quả-----
+===> Chưa thể suy diễn, hãy chọn thêm triệu chứng
