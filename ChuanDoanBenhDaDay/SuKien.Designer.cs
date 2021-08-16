@@ -35,8 +35,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnThem = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
-            this.btnLuu = new System.Windows.Forms.Button();
-            this.btnQuayLai = new System.Windows.Forms.Button();
             this.btnXoaTrangTextBox = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
@@ -122,32 +120,10 @@
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
-            // btnLuu
-            // 
-            this.btnLuu.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLuu.Location = new System.Drawing.Point(303, 574);
-            this.btnLuu.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.btnLuu.Name = "btnLuu";
-            this.btnLuu.Size = new System.Drawing.Size(216, 48);
-            this.btnLuu.TabIndex = 6;
-            this.btnLuu.Text = "Lưu";
-            this.btnLuu.UseVisualStyleBackColor = true;
-            // 
-            // btnQuayLai
-            // 
-            this.btnQuayLai.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnQuayLai.Location = new System.Drawing.Point(303, 669);
-            this.btnQuayLai.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.btnQuayLai.Name = "btnQuayLai";
-            this.btnQuayLai.Size = new System.Drawing.Size(216, 48);
-            this.btnQuayLai.TabIndex = 7;
-            this.btnQuayLai.Text = "Quay Lại";
-            this.btnQuayLai.UseVisualStyleBackColor = true;
-            // 
             // btnXoaTrangTextBox
             // 
             this.btnXoaTrangTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoaTrangTextBox.Location = new System.Drawing.Point(33, 669);
+            this.btnXoaTrangTextBox.Location = new System.Drawing.Point(303, 574);
             this.btnXoaTrangTextBox.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnXoaTrangTextBox.Name = "btnXoaTrangTextBox";
             this.btnXoaTrangTextBox.Size = new System.Drawing.Size(224, 48);
@@ -162,7 +138,7 @@
             this.btnXoa.Location = new System.Drawing.Point(303, 486);
             this.btnXoa.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(216, 48);
+            this.btnXoa.Size = new System.Drawing.Size(224, 48);
             this.btnXoa.TabIndex = 9;
             this.btnXoa.Text = "Xóa sự kiện";
             this.btnXoa.UseVisualStyleBackColor = true;
@@ -223,8 +199,6 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnXoaTrangTextBox);
-            this.Controls.Add(this.btnQuayLai);
-            this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.btnSua);
             this.Controls.Add(this.btnThem);
             this.Controls.Add(this.groupBox1);
@@ -249,8 +223,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnThem;
         private System.Windows.Forms.Button btnSua;
-        private System.Windows.Forms.Button btnLuu;
-        private System.Windows.Forms.Button btnQuayLai;
         private System.Windows.Forms.Button btnXoaTrangTextBox;
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.GroupBox groupBox2;

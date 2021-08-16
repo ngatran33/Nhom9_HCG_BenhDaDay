@@ -21,7 +21,7 @@ r26:d18^n3^c3->kl10
 r27:d8^d3^d2->kl10
 r28:d20->kl10
 r29:t2^c4^n1->kl10
-r3:d3^c1^m3->KL2
+r3:d3^c1^m3->kl2
 r30:d5^d3^d17^k3->kl11
 r31:u1^s2^t1->kl1
 r32:m3^a1^a2->kl1
@@ -34,20 +34,19 @@ r38:v1^u1^b3->kl1
 r39:d9->kl1
 r4:d5^a1^d17^k3^c4->kl3
 r40:d3^s2^n3^d2^o2^k3->kl1
-r41:b2^b3^c3^d1^d11->kl11
 r5:k1^a1^d14^b1^b3->kl3
 r6:n3^n2^d2^c3^h1^t4^m1^x1->kl4
 r7:o2^o1^d11^d15^d10->kl3
 r8:d8^d7^d6^c1->kl3
 r9:d11^n5^b3^n1^o2^o1^d16^c4^s1^c2->kl5
 
-Tập giả thiết: GT={d1}
+Tập giả thiết: GT={c2}
 Bước 1: 
 Tập trung gian: 
-TG={d1}
+TG={c2}
 SAT={}
 ------------------------------------------------------------------------------
 -----Các sự kiện đã chọn-----
-Da dẻ xanh xao
+Chán ăn
 -----Kết quả-----
 ===> Chưa thể suy diễn, hãy chọn thêm triệu chứng

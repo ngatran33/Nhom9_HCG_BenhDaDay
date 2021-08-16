@@ -12,8 +12,8 @@ namespace ChuanDoanBenhDaDay.DBConnections
     {
         public SqlConnection getConnect()
         {
-           // String conString = @"Data Source=ADMIN\SQLEXPRESS;Initial Catalog=HCG_NHOMSO9;Integrated Security=True";
-            String conString = @"Data Source=DESKTOP-QMBOBJ0\SQLEXPRESS;Initial Catalog=HCG_NHOMSO9;Integrated Security=True";
+           String conString = @"Data Source=ADMIN\SQLEXPRESS;Initial Catalog=HCG_NHOMSO9;Integrated Security=True";
+            //String conString = @"Data Source=DESKTOP-QMBOBJ0\SQLEXPRESS;Initial Catalog=HCG_NHOMSO9;Integrated Security=True";
             SqlConnection conn = new SqlConnection(conString);
             return conn;
         }

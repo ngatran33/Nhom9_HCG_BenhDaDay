@@ -86,7 +86,7 @@ INSERT INTO SUKIEN VALUES('kl11', N'Nhiễm vi khuẩn hp dạ dày')
 
 INSERT INTO LUAT VALUES('r1','o2^o1^b3','d17')
 INSERT INTO LUAT VALUES('r2','b2^a1^a2','t1')
-INSERT INTO LUAT VALUES('r3','d3^c1^m3','KL2')
+INSERT INTO LUAT VALUES('r3','d3^c1^m3','kl2')
 INSERT INTO LUAT VALUES('r4','d5^a1^d17^k3^c4','kl3')
 INSERT INTO LUAT VALUES('r5','k1^a1^d14^b1^b3','kl3')
 INSERT INTO LUAT VALUES('r6','n3^n2^d2^c3^h1^t4^m1^x1','kl4')
